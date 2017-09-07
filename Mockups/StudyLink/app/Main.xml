@@ -1,0 +1,155 @@
+﻿<project version="2.4" name="StudyLink" ID="FF9C7956-C0F6-49D7-B6AB-F1F95D809816">
+  <params>
+    <pageParam version="4.7" minAllowVersion="4.7"/>
+    <projectParam version="2.4" minAllowVersion="2.4" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="4B868D34-635C-4C3F-BC49-92581E8482DA" expanded="False" code="aXXa8UW64R" thumbCode="aXXa8UW64R" status="psWhite" isfolder="False">
+      <images>
+        <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+        <image key="9669428A6A6B0FB956687C7BE7898471.svg"/>
+        <image key="4E907AA8CD5547A2940A52979F762D41.svg"/>
+        <image key="D0E91B28CCA479291E50D34EB57F3A00.png"/>
+        <image key="B95C2B5826005D93DA001EE8260701F6.png"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+        <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+      </images>
+    </page>
+    <page name="Main_Page" ID="5B6A3A06-AC0E-4B0A-94ED-4ABC91A4F03C" expanded="True" code="TsRDIainkF" thumbCode="TsRDIainkF" status="psWhite" isfolder="False">
+      <images>
+        <image key="D65B5C8DF2A24A0B3B808B0FB66B9497.svg"/>
+        <image key="DC8815DD62A5A4BD608D74F7F309BEB0.svg"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+        <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+        <image key="480315B634C98E171C8EADF2AD69D06E.svg"/>
+        <image key="805AEB63C21D063B84AD7CB292C6064B.svg"/>
+        <image key="BEB5A07F5D035946C24D8B04858B49DE.svg"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+      </images>
+    </page>
+    <page name="Subjects" ID="033E92B8-3A85-4FD6-91B6-EA9CE34ACD4D" expanded="True" code="RhvcIC2K5G" thumbCode="UCTxVb7bSV" status="psWhite" isfolder="False">
+      <images>
+        <image key="70088665EC05C65D96A105E4A93F73A5.svg"/>
+        <image key="15AB6FAD1A30319567523FFFABC093B9.svg"/>
+        <image key="480315B634C98E171C8EADF2AD69D06E.svg"/>
+        <image key="805AEB63C21D063B84AD7CB292C6064B.svg"/>
+        <image key="70D85F94236C33BFA9119C2CF0538C4E.svg"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+        <image key="D65B5C8DF2A24A0B3B808B0FB66B9497.svg"/>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="8475D20AB379BE317E4B227F4BFF64F9.svg"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+        <image key="885BD210111F06B0DFDFF6715B39C4B8.svg"/>
+        <image key="0AE44071EBEDE13A44F45177D282B902.svg"/>
+        <image key="EFC978AEEBD0572D9ED8456F5CD60FFC.svg"/>
+        <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+        <image key="F6BD540A100CFF66BDCF853FE88F5DAE.svg"/>
+        <image key="BEB5A07F5D035946C24D8B04858B49DE.svg"/>
+        <image key="DAD48468CCF807CC6FCBA9CC8F1A2B46.svg"/>
+      </images>
+    </page>
+    <page name="Groups" ID="76568FC0-6512-4AF7-8230-0A5CFD22F550" expanded="True" code="m4RsBkKYDH" thumbCode="m4RsBkKYDH" status="psWhite" isfolder="False">
+      <images>
+        <image key="8FACD1A6DD0E0A1D0F90FF61845F4023.svg"/>
+        <image key="DC8815DD62A5A4BD608D74F7F309BEB0.svg"/>
+        <image key="70088665EC05C65D96A105E4A93F73A5.svg"/>
+        <image key="61419CC11F4D985C5C807DE9C1A8D174.svg"/>
+        <image key="15AB6FAD1A30319567523FFFABC093B9.svg"/>
+        <image key="4368B34F737EBF230EC016DED4B1DB40.svg"/>
+        <image key="480315B634C98E171C8EADF2AD69D06E.svg"/>
+        <image key="397D5BAFBDB477B3088FE0E40D3B97E4.svg"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+        <image key="D65B5C8DF2A24A0B3B808B0FB66B9497.svg"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+        <image key="885BD210111F06B0DFDFF6715B39C4B8.svg"/>
+        <image key="0AE44071EBEDE13A44F45177D282B902.svg"/>
+        <image key="EFC978AEEBD0572D9ED8456F5CD60FFC.svg"/>
+        <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+        <image key="F6BD540A100CFF66BDCF853FE88F5DAE.svg"/>
+        <image key="3D5E90344E23C923EF92911B802563ED.svg"/>
+        <image key="7D34168CB3374D39FEFCE9D0FCF04759.svg"/>
+        <image key="DAD48468CCF807CC6FCBA9CC8F1A2B46.svg"/>
+      </images>
+    </page>
+    <page name="Collegues" ID="CBAB129E-33DF-4EFD-8A25-FB155557F0B3" expanded="True" code="ws88yGVCwn" thumbCode="9Ah6QH2cgv" status="psWhite" isfolder="False">
+      <images>
+        <image key="D65B5C8DF2A24A0B3B808B0FB66B9497.svg"/>
+        <image key="5649C4F8404327CC3F8EBFA15DA1AEEA.svg"/>
+        <image key="DC8815DD62A5A4BD608D74F7F309BEB0.svg"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+        <image key="885BD210111F06B0DFDFF6715B39C4B8.svg"/>
+        <image key="EFC978AEEBD0572D9ED8456F5CD60FFC.svg"/>
+        <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+        <image key="480315B634C98E171C8EADF2AD69D06E.svg"/>
+        <image key="805AEB63C21D063B84AD7CB292C6064B.svg"/>
+        <image key="B4EAB721F170135F999A209D1B0AA929.png"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+      </images>
+    </page>
+    <page name="Games" ID="0AFBFFE9-6F21-446C-8C52-88A73DDB1A87" expanded="True" code="BIzfKPt6UA" thumbCode="BIzfKPt6UA" isLastOpen="True" status="psWhite" isfolder="False">
+      <images>
+        <image key="DC8815DD62A5A4BD608D74F7F309BEB0.svg"/>
+        <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+        <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+      </images>
+    </page>
+    <page name="FollowPortofolio" ID="495F9784-BD35-4EB1-BD8B-F17BA2DF4437" expanded="True" code="izLc8KnW4V" thumbCode="" status="psWhite" isfolder="False"/>
+    <page name="profile1" ID="10FBDE31-40CE-44A1-9EFB-FA0654C3F5FB" expanded="True" code="5CyQQUMz1V" thumbCode="5CyQQUMz1V" status="psWhite" isfolder="False">
+      <images>
+        <image key="42CF9E031360EBC09387427849BF6328.svg"/>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+      </images>
+    </page>
+    <page name="profile2" ID="632A751A-93A7-42FB-A37E-8FC4B544F96A" expanded="True" code="pu2OxfZcZk" thumbCode="pu2OxfZcZk" status="psWhite" isfolder="False">
+      <images>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+      </images>
+    </page>
+    <page name="profile3" ID="E34A348B-0663-48C8-B46E-86D463A411CE" expanded="True" code="ZcoIWhPZTP" thumbCode="ZcoIWhPZTP" status="psWhite" isfolder="False">
+      <images>
+        <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+      </images>
+    </page>
+  </pages>
+  <masters/>
+  <images>
+    <image key="8FACD1A6DD0E0A1D0F90FF61845F4023.svg"/>
+    <image key="B95C2B5826005D93DA001EE8260701F6.png"/>
+    <image key="15AB6FAD1A30319567523FFFABC093B9.svg"/>
+    <image key="61419CC11F4D985C5C807DE9C1A8D174.svg"/>
+    <image key="70D85F94236C33BFA9119C2CF0538C4E.svg"/>
+    <image key="397D5BAFBDB477B3088FE0E40D3B97E4.svg"/>
+    <image key="B4EAB721F170135F999A209D1B0AA929.png"/>
+    <image key="8475D20AB379BE317E4B227F4BFF64F9.svg"/>
+    <image key="D0E91B28CCA479291E50D34EB57F3A00.png"/>
+    <image key="42CF9E031360EBC09387427849BF6328.svg"/>
+    <image key="3B4E09075FF235BD7A0EAA695BD7AF6C.png"/>
+    <image key="F6BD540A100CFF66BDCF853FE88F5DAE.svg"/>
+    <image key="7D34168CB3374D39FEFCE9D0FCF04759.svg"/>
+    <image key="BEB5A07F5D035946C24D8B04858B49DE.svg"/>
+    <image key="DAD48468CCF807CC6FCBA9CC8F1A2B46.svg"/>
+    <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+    <image key="9669428A6A6B0FB956687C7BE7898471.svg"/>
+    <image key="4E907AA8CD5547A2940A52979F762D41.svg"/>
+    <image key="DC8815DD62A5A4BD608D74F7F309BEB0.svg"/>
+    <image key="70088665EC05C65D96A105E4A93F73A5.svg"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+    <image key="4368B34F737EBF230EC016DED4B1DB40.svg"/>
+    <image key="480315B634C98E171C8EADF2AD69D06E.svg"/>
+    <image key="805AEB63C21D063B84AD7CB292C6064B.svg"/>
+    <image key="EBCF8B0E0F7A0A3CF65E836827008B44.png"/>
+    <image key="D65B5C8DF2A24A0B3B808B0FB66B9497.svg"/>
+    <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+    <image key="5649C4F8404327CC3F8EBFA15DA1AEEA.svg"/>
+    <image key="885BD210111F06B0DFDFF6715B39C4B8.svg"/>
+    <image key="0AE44071EBEDE13A44F45177D282B902.svg"/>
+    <image key="EFC978AEEBD0572D9ED8456F5CD60FFC.svg"/>
+    <image key="8246E088966699D9B08F63C32D4819D8.png"/>
+    <image key="3D5E90344E23C923EF92911B802563ED.svg"/>
+    <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+  </images>
+</project>

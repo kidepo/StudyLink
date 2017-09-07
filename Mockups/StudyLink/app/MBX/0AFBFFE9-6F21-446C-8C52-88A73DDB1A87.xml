@@ -1,0 +1,377 @@
+﻿<mockup version="4.7" minAllowVersion="4.7" ID="0AFBFFE9-6F21-446C-8C52-88A73DDB1A87" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="E9E74E76-BE4E-417B-99B4-F6A574C17BDA" controlTypeID="__group__" isShow="True" caption="Group" x="0" y="0" w="1100" h="705" measuredW="0" measuredH="0" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{E0027B49-E082-4A87-9647-1B4014160A65}" coords="(0,0,1100,705)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{275DBB98-578A-4CE7-8AEE-4ADD7C06B719}" coords="(0,0,1100,705)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <groupChildrenDescriptors>
+          <control controlID="F64CB1F6-7F6C-4D85-921B-3459A8B18318" controlTypeID="BrowserWindow" isShow="True" caption="Browser" x="0" y="0" w="1100" h="705" measuredW="445" measuredH="396" zOrder="0" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{EEDC95EF-B6D9-4E15-83FD-284C920A89C5}" coords="(0,0,1100,705)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{24772EA5-F7B0-4798-AC6E-8E5B0BDAC1E2}" coords="(0,0,1100,705)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <textSet textColor="4278190080" textSize="14" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="19" textStyles="[]" useDefaultTextSize="True">
+                <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                <text>Mockplus%0D%0Ahttps%3A%2F%2Fwww.mockplus.com</text>
+              </textSet>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4282501083</selectedColor>
+              <textPadding>0</textPadding>
+            </controlProperties>
+          </control>
+          <control controlID="29A9705C-4F36-478E-AA5F-DD2CFEC5CE13" controlTypeID="Image" isShow="True" caption="Image" x="0" y="72" w="1100" h="605" measuredW="150" measuredH="150" zOrder="1" locked="True" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{76E2C590-69E9-4DA5-8679-597FB9FEB597}" coords="(0,0,1100,605)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{C3AB8C4C-6A75-4BD4-8D84-F4009BDECF2B}" coords="(0,0,1100,605)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <rotationAngle>TdZero</rotationAngle>
+              <clipShapeType>SbRectangle</clipShapeType>
+              <radius>0</radius>
+              <radiusIsPercent>False</radiusIsPercent>
+              <URL>8246E088966699D9B08F63C32D4819D8.png</URL>
+              <FlipHorizontal>False</FlipHorizontal>
+              <FlipVertical>False</FlipVertical>
+              <fitMode>2</fitMode>
+              <showText>True</showText>
+            </controlProperties>
+          </control>
+        </groupChildrenDescriptors>
+      </controlProperties>
+    </control>
+    <control controlID="B17CBCA0-A7A1-42A2-85E1-39C1AF678CE6" controlTypeID="Accordion" isShow="True" caption="Accordion" x="0" y="266" w="186" h="295" measuredW="150" measuredH="216" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4281742902" borderVisible="False" borderColor="4278190131" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="5B6A3A06-AC0E-4B0A-94ED-4ABC91A4F03C" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+            <area shape="0" alt="" ID="{16813069-8B74-403C-909C-89413FF884B6}" coords="(2,1,184,30)"/>
+          </link>
+          <link targetPageID="033E92B8-3A85-4FD6-91B6-EA9CE34ACD4D" linkType="ltPageLink" isApplyIncludePage="False" title="Subjects+">
+            <area shape="0" alt="" ID="{D57A7DBA-9CEB-4830-B377-282794FE7498}" coords="(2,178,184,207)"/>
+          </link>
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="-+Mathematics">
+            <area shape="0" alt="" ID="{50DE6F59-36E1-4F2A-ABFA-7331BEEC63B2}" coords="(0,0,0,0)"/>
+          </link>
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="-+Chemistry">
+            <area shape="0" alt="" ID="{3230D95E-5A0C-471A-8898-C99A9D6131DA}" coords="(0,0,0,0)"/>
+          </link>
+          <link targetPageID="76568FC0-6512-4AF7-8230-0A5CFD22F550" linkType="ltPageLink" isApplyIncludePage="False" title="Groups">
+            <area shape="0" alt="" ID="{4A10B990-9BDF-40EA-9FF8-065247A1012F}" coords="(2,207,184,236)"/>
+          </link>
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="-+gurus404">
+            <area shape="0" alt="" ID="{E884D2C3-D9A4-4798-B107-B35CBBFA18D8}" coords="(0,0,0,0)"/>
+          </link>
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="-+Maths+Heros">
+            <area shape="0" alt="" ID="{8DDD841D-DCB4-4923-91C5-BA95FCAED18A}" coords="(0,0,0,0)"/>
+          </link>
+          <link targetPageID="CBAB129E-33DF-4EFD-8A25-FB155557F0B3" linkType="ltPageLink" isApplyIncludePage="False" title="Collegues">
+            <area shape="0" alt="" ID="{1C81A961-0AE1-41D2-BC80-A53DF6148BAC}" coords="(2,236,184,265)"/>
+          </link>
+          <link targetPageID="0AFBFFE9-6F21-446C-8C52-88A73DDB1A87" linkType="ltPageLink" isApplyIncludePage="False" title="Brain+games">
+            <area shape="0" alt="" ID="{68EECE90-40FC-42B6-89E8-80EEB8B1468E}" coords="(2,265,184,294)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="Home">
+            <area shape="0" alt="" ID="{0BA8A6FA-7C08-4F73-A6FE-F9368F58C381}" coords="(2,1,184,30)"/>
+            <events title=""/>
+          </entry>
+          <entry title="Subjects+">
+            <area shape="0" alt="" ID="{87D3B460-AFE9-456D-9D64-227B2A5828F7}" coords="(2,178,184,207)"/>
+            <events title=""/>
+          </entry>
+          <entry title="-+Mathematics">
+            <area shape="0" alt="" ID="{DC84C2B2-9B66-4353-8211-CEC5F2174654}" coords="(0,0,0,0)"/>
+            <events title=""/>
+          </entry>
+          <entry title="-+Chemistry">
+            <area shape="0" alt="" ID="{0B8C2C63-A6C0-4219-BDEE-2A21176B273F}" coords="(0,0,0,0)"/>
+            <events title=""/>
+          </entry>
+          <entry title="Groups">
+            <area shape="0" alt="" ID="{47DE12BE-B312-449F-AB3B-415ADE77D4DA}" coords="(2,207,184,236)"/>
+            <events title=""/>
+          </entry>
+          <entry title="-+gurus404">
+            <area shape="0" alt="" ID="{2501A615-9F48-4908-AEC4-4A3FB7EFB5FF}" coords="(0,0,0,0)"/>
+            <events title=""/>
+          </entry>
+          <entry title="-+Maths+Heros">
+            <area shape="0" alt="" ID="{2E556984-01A7-4A6E-8621-2E71FD5CB513}" coords="(0,0,0,0)"/>
+            <events title=""/>
+          </entry>
+          <entry title="Collegues">
+            <area shape="0" alt="" ID="{BCDC0544-31BD-4C50-95BE-951E9FEBFCEA}" coords="(2,236,184,265)"/>
+            <events title=""/>
+          </entry>
+          <entry title="Brain+games">
+            <area shape="0" alt="" ID="{5F9A4407-361C-4E14-80B0-8B0183B1A526}" coords="(2,265,184,294)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4291611852" textSize="14" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="19" textStyles="[]" useDefaultTextSize="True">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Home%0D%0ASubjects+%0D%0A-+Mathematics%0D%0A-+Chemistry%0D%0AGroups%0D%0A-+gurus404%0D%0A-+Maths+Heros%0D%0ACollegues%0D%0ABrain+games</text>
+        </textSet>
+        <selectedIndex>0</selectedIndex>
+        <selectedColor>4284900966</selectedColor>
+        <textPadding>0</textPadding>
+        <itemHeight>29</itemHeight>
+        <separatorColor>4278190131</separatorColor>
+        <showSeparator>False</showSeparator>
+      </controlProperties>
+    </control>
+    <control controlID="6A7886D6-7DD3-4501-A536-DFC21B34436B" controlTypeID="Shape" isShow="True" caption="Shape" x="186" y="120" w="914" h="558" measuredW="120" measuredH="100" zOrder="2" locked="True" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{690FCA86-FDFD-4309-92BD-C9800975615E}" coords="(0,0,914,558)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{B69B0AC3-5F5F-4B20-AD5A-1E02AC611241}" coords="(0,0,914,558)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="19" textStyles="[]" useDefaultTextSize="True">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <thickness>1</thickness>
+      </controlProperties>
+    </control>
+    <control controlID="18F1A9DF-07BA-4F58-BF2E-8C65B9583233" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="72" w="186" h="48" measuredW="120" measuredH="100" zOrder="3" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4281558783" borderVisible="True" borderColor="6710886" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{5B894747-6993-4F6E-A808-91B6A5789CC4}" coords="(0,0,186,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{E0D0FAAF-CA6A-40A2-B4B4-47D474C9D154}" coords="(0,0,186,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="19" textStyles="[]" useDefaultTextSize="True">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <thickness>1</thickness>
+      </controlProperties>
+    </control>
+    <control controlID="2785A908-F4A2-465D-AD92-DFF93CE03C65" controlTypeID="Image" isShow="True" caption="Image" x="41" y="70" w="109" h="55" measuredW="150" measuredH="150" zOrder="4" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{86A7F550-4733-4273-B438-C8439A2478C0}" coords="(0,0,109,55)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{06257FDB-D286-42CB-B1BC-D4986642D580}" coords="(0,0,109,55)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <URL>EBCF8B0E0F7A0A3CF65E836827008B44.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+        <showText>True</showText>
+      </controlProperties>
+    </control>
+    <control controlID="6A4E1CDB-B0C3-42A9-84FE-0C9C467D588C" controlTypeID="Label" isShow="True" caption="Label" x="474" y="123" w="317" h="38" measuredW="0" measuredH="0" zOrder="5" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="0" borderVisible="True" borderColor="4284900966" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{49A71319-5303-4346-AD6E-4213736EC85F}" coords="(0,0,317,38)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{9AF73C91-AF3A-4F08-93F8-085AC678B9A0}" coords="(0,0,317,38)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278216447" textSize="28" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="38" textStyles="[]" useDefaultTextSize="False">
+          <font family="AngsanaUPC" displayName="AngsanaUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Whats+to+relax+your+brain+as+you+train+it+%3F</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control controlID="F9C737CA-A8A6-4D9F-9044-D94DB00DA892" controlTypeID="Shape" isShow="True" caption="Shape" x="234" y="159" w="811" h="492" measuredW="120" measuredH="100" zOrder="6" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4290559164" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{72108001-1C84-428D-8306-FAD3BC3B6C60}" coords="(0,0,811,492)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{56A97448-3E24-4EDE-B197-4890D3F4ADD2}" coords="(0,0,811,492)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="19" textStyles="[]" useDefaultTextSize="True">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>8</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <thickness>2</thickness>
+      </controlProperties>
+    </control>
+    <control controlID="3B8EE33E-B057-4BC1-9313-D23D90A7D194" controlTypeID="Icon" isShow="True" caption="Icon" x="438" y="122" w="35" h="35" measuredW="24" measuredH="24" zOrder="7" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4278190182" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{63F6F065-86A9-4444-A643-92B5C08F9AAE}" coords="(0,0,35,35)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{B9A47E3F-8299-4488-AF7D-052163265CB4}" coords="(0,0,35,35)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID/>
+          <iconFontName>jdIcoMoonFree</iconFontName>
+          <iconCode>60093</iconCode>
+        </icon>
+        <URL>DC8815DD62A5A4BD608D74F7F309BEB0.svg</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
